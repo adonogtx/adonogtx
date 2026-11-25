@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Gustavo
 
-<!--
-**adonogtx/adonogtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Campinas, Brazil, working with Java, Spring Boot and PostgreSQL.
 
-Here are some ideas to get you started:
+I like quiet systems: predictable, well tested, and simple enough to explain in a few sentences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main project is [旅路 tabiji](https://github.com/adonogtx/tabiji), a train seat reservation API
+where two people can never book the same seat, and retrying a request never charges twice.
+
+Outside of code I'm learning Japanese, which is why most of my projects end up with a Japanese theme.
+
+Open to backend roles, remote or hybrid in Campinas and São Paulo.
+Portuguese, English, and some 日本語.
